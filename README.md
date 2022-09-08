@@ -28,7 +28,7 @@ Setup of these instances and functions are not covered here, please use the offi
 
 Install InfluxDB on the desired host and make sure to have the desired buckets:
 
-* ```portfolio_value``` for the whole portfolio value
+* ```portfolio_value``` for the total portfolio value
 * ```price_XYZ``` --> for example, ```price_btc``` for Bitcoin
 
 Note your Influx organization and API token, instructions here: [https://docs.influxdata.com/influxdb/cloud/security/tokens/create-token/](https://docs.influxdata.com/influxdb/cloud/security/tokens/create-token/)
