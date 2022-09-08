@@ -39,7 +39,7 @@ This script is used to fetch the desired coin prices using the free CoinGecko AP
 
 Run this script peridically (e.g. every 30 minutes). 
 
-## portfolio_value.py
+### portfolio_value.py
 
 This script is used to sum everything up and get a total portfolio value in the end. 
 
