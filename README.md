@@ -55,5 +55,5 @@ from(bucket: "portfolio_value")
   |> aggregateWindow(every: v.windowPeriod, fn: mean)
 ```
 
-![total portfolio value chart](tpv.jpg)
+![total portfolio value chart](tpv.png)
 
