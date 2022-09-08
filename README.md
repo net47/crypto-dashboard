@@ -47,6 +47,8 @@ Run this script peridically (e.g. every 65 minutes).
 
 ### Grafana
 
+Add your InfluxDB instance as a data source. 
+
 You can use the following example query for a total portfolio value "Time series" chart:
 
 ```
