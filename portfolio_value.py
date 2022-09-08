@@ -60,7 +60,6 @@ def getValue_BTC(xpub):
         try:
             raw = r.json()
             if raw['chain_stats']['funded_txo_sum'] != 0:
-                #print(raw)
                 sats.append(raw['chain_stats']['funded_txo_sum'])
         except:
             pass
