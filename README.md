@@ -37,13 +37,13 @@ Note your Influx organization and API token, instructions here: [https://docs.in
 
 This script is used to fetch the desired coin prices using the free CoinGecko API and save it in InfluxDB. Off course, this is highly dependant what coins you own, adapt it as you wish. 
 
-Run this script peridically (e.g. every 30 minutes). 
+Run this script periodically (e.g. every 30 minutes). 
 
 ### portfolio_value.py
 
 This script is used to sum everything up and get a total portfolio value in the end. 
 
-Run this script peridically (e.g. every 65 minutes). 
+Run this script periodically (e.g. every 65 minutes). 
 
 ### Grafana
 
